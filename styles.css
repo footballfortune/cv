@@ -1,0 +1,130 @@
+
+body{
+	color: #40514E;
+	margin: 0;
+	text-align: center;
+	font-family: 'merriweather', serif;
+	
+}
+
+h1{
+	font-size: 5.625rem;
+	line-height: 2;
+	margin: 50px auto 0 auto;
+	font-family: 'sacramento', cursive;
+	color: green;
+}
+
+h2{
+	font-family: 'montserrat', sans-serif;
+	font-size: 2.5rem;
+	font-weight: normal;
+	color: green;
+}
+
+h3{
+	color: green;
+	font-family: 'montserrat', sans-serif;
+}
+
+p{
+	line-height: 2;
+}
+
+hr{
+border: dotted red 6px;
+border-bottom:none;
+width: 4%;
+margin: 100px auto;	
+}
+
+a{
+	color: #11999E;
+	font-family: 'montserrat', sans-serif;
+	margin: 10px 20px; 
+	text-decoration: none ;
+}
+
+a:hover{
+	color: #eaf6f6;
+}
+.top-container{
+	background-color: #E4F9F5;
+	position: relative ;
+	padding-top: 100px;
+}
+
+.middle-container{
+margin: 100px 0;
+}
+
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: center;
+	line-height: 2;
+}
+.contact-message{
+ 	margin: 40px auto 60px;
+ }
+
+.btn {
+  background: #f00020;
+  background-image: -webkit-linear-gradient(top, #f00020, #b82b2b);
+  background-image: -moz-linear-gradient(top, #f00020, #b82b2b);
+  background-image: -ms-linear-gradient(top, #f00020, #b82b2b);
+  background-image: -o-linear-gradient(top, #f00020, #b82b2b);
+  background-image: linear-gradient(to bottom, #f00020, #b82b2b);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ff0000;
+  background-image: -webkit-linear-gradient(top, #ff0000, #d93434);
+  background-image: -moz-linear-gradient(top, #ff0000, #d93434);
+  background-image: -ms-linear-gradient(top, #ff0000, #d93434);
+  background-image: -o-linear-gradient(top, #ff0000, #d93434);
+  background-image: linear-gradient(to bottom, #ff0000, #d93434);
+  text-decoration: none;
+}
+
+.Accurate{
+	text-decoration:underline ;
+	color: red;
+}
+
+.top-cloud{
+	position: absolute;
+right: 300px;
+top: 50px;
+}
+
+.bottom-cloud{
+	position: absolute;
+	right: 300px;
+left: 50px;
+
+}
+
+.copyright{
+	color: #EAF6F6;
+	font-size: 0.75rem;
+	padding: 20px 0px;
+}
+
+
+div {
+	background-color:#E4F9F5 ;
+}
